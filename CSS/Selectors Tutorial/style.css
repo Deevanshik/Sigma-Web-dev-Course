@@ -1,0 +1,30 @@
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+#white{
+    color: white;
+}
+/* This targets all paragraphs that are direct children of a div */
+div > p{
+    color: rgb(144, 223, 144);
+    background-color: black;
+}
+/* Universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a:visited{
+    color: green;
+}
+a:link{
+    color: blue;
+}
+div:hover{
+    background-color: darkred;
+    color: violet;
+}

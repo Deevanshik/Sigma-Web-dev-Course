@@ -1,0 +1,18 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: wavy underline;
+    text-decoration-color: aqua;
+    
+}
+div:hover{
+    text-decoration: underline;
+    text-decoration-color: darkcyan;
+}
+h1{
+    text-align: center;
+    /* text-align; */
+    font-family: "Edu NSW ACT Cursive", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 40px;
+}
